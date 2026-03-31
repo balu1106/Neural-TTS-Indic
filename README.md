@@ -1,5 +1,6 @@
 # Neural TTS for Indic Languages
-
+## Status
+This project is currently under development. Core components such as preprocessing, training, and inference pipelines are implemented, with ongoing improvements in model performance and output quality.
 This project implements a FastSpeech2-based neural text-to-speech (TTS) system using PyTorch for generating speech in Indic languages.
 
 ## Features
